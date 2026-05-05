@@ -20,7 +20,9 @@ app.use(express.json());
 
 app.use(express.static('public'));
 
-
+app.get("/", (req, res) => {
+    res.redirect("/products");
+})
 
 app.use('/products', ProductsRoutes);
 
