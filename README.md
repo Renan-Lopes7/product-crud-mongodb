@@ -59,6 +59,8 @@ Acesse em: [http://localhost:1000/products](http://localhost:1000/products)
 - **Node.js** — runtime JavaScript
 - **Express** — framework web
 - **MongoDB** — banco de dados NoSQL
+- - **MVC** — arquitetura do projeto
+- **Nodemon** — reload automático em desenvolvimento
 - **Handlebars** — template engine
 
 
